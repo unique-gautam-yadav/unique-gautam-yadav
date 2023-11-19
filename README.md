@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Gautam Yadav 👋
+## I'm a Tech Enthusiast Student .
+- 🌱 I’m currently learning Mobile App Developement with Flutter 
+- 👯 I’m looking to collaborate with other content creators 
+- 👀 Fun fact: I love to code when i get bored and then i gets bored 
 
-<!--
-**unique-gautam-yadav/unique-gautam-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] https://instagram.com/flutter.demon
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+unique-gautam-yadav/unique-gautam-yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
